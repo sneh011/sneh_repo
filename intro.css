@@ -1,0 +1,14 @@
+body{
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Best-HD-Backgrounds-Photos-Download.jpg');
+
+}
+div{
+    border-style: solid;
+    border-color: black;
+    
+    border-width: 3px;
+    height: 300px;
+    width: 500px;
+    
+    display: block;
+}
